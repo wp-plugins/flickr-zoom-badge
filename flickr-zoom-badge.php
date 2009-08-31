@@ -3,7 +3,7 @@
 Plugin Name: Flickr Zoom Badge
 Plugin URI: http://www.mfd-consult.dk/flickr-zoom-badge/
 Description: Show photos from Flickr based on user and/or tag(s), with zoom effect without using Flash.
-Version: 1.0
+Version: 1.1
 Author: Morten Høybye Frederiksen
 Author URI: http://www.wasab.dk/morten/
 License: GPL

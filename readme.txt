@@ -52,6 +52,9 @@ If your question isn't answered here, please do leave a comment in the forum or 
 
 == Changelog ==
 
+= 1.1 =
+* Added Danish translation.
+
 = 1.0 =
 * Initial release.
 
